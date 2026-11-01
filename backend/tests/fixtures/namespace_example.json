@@ -1,0 +1,253 @@
+{
+ "title": "Berberis-example-2025-01-01",
+ "author": "Example Author",
+ "updated_at": "2025-01-01T00:00:00.000000Z",
+ "literatures": [
+  {
+   "citation": "Example, A. (2000) A synthetic flora for testing. Example J. Bot. 1: 1–10.",
+   "reference_id": 1
+  },
+  {
+   "citation": "Sample, B. & Example, A. (2010) Notes on test taxa. Test Bull. 2: 20–30.",
+   "reference_id": 2
+  }
+ ],
+ "group": [
+  {
+   "name": "<i>Berberis</i>",
+   "name_id": 776,
+   "rank_id": 30,
+   "name_authors": "L.",
+   "usage_references_text": "<i>Berberis</i> L., Example J. Bot. 1: 11. 2000.",
+   "common_names": [
+    "小檗屬"
+   ],
+   "synonyms": [],
+   "description": "Synthetic test description of Berberis. Shrubs; leaves 1–4 cm long.",
+   "distribution": "Test distribution for Berberis, 1100 m.",
+   "note": null
+  },
+  {
+   "name": "<i>Berberis aristatoserrulata</i>",
+   "name_id": 20960,
+   "rank_id": 34,
+   "name_authors": "Hayata",
+   "usage_references_text": "<i>Berberis aristatoserrulata</i> Hayata, Example J. Bot. 2: 12. 2000.",
+   "common_names": [
+    "長葉小檗"
+   ],
+   "synonyms": [],
+   "description": "Synthetic test description of Berberis aristatoserrulata. Shrubs; leaves 2–5 cm long.",
+   "distribution": "Test distribution for Berberis aristatoserrulata, 1200 m.",
+   "note": null
+  },
+  {
+   "name": "<i>Berberis brevisepala</i>",
+   "name_id": 20961,
+   "rank_id": 34,
+   "name_authors": "Hayata",
+   "usage_references_text": "<i>Berberis brevisepala</i> Hayata, Example J. Bot. 3: 13. 2000.",
+   "common_names": [
+    "高山小檗"
+   ],
+   "synonyms": [
+    {
+     "name_id": 246001,
+     "usage_references_text": "<i>Berberis alpicola</i> C.K.Schneid., Example J. Bot. 31: 41. 2000."
+    },
+    {
+     "name_id": 142259,
+     "usage_references_text": "<i>Berberis densifolia</i> auct. non Bijh., Example J. Bot. 32: 42. 2000."
+    }
+   ],
+   "description": "Synthetic test description of Berberis brevisepala. Shrubs; leaves 3–6 cm long.",
+   "distribution": "Test distribution for Berberis brevisepala, 1300 m.",
+   "note": null
+  },
+  {
+   "name": "<i>Berberis chingshuiensis</i>",
+   "name_id": 20962,
+   "rank_id": 34,
+   "name_authors": "Shimizu",
+   "usage_references_text": "<i>Berberis chingshuiensis</i> Shimizu, Example J. Bot. 4: 14. 2000.",
+   "common_names": [
+    "清水山小檗"
+   ],
+   "synonyms": [],
+   "description": "Synthetic test description of Berberis chingshuiensis. Shrubs; leaves 4–7 cm long.",
+   "distribution": "Test distribution for Berberis chingshuiensis, 1400 m.",
+   "note": null
+  },
+  {
+   "name": "<i>Berberis hayatana</i>",
+   "name_id": 20963,
+   "rank_id": 34,
+   "name_authors": "M.Mizush.",
+   "usage_references_text": "<i>Berberis hayatana</i> M.Mizush., Example J. Bot. 5: 15. 2000.",
+   "common_names": [
+    "早田氏小檗"
+   ],
+   "synonyms": [
+    {
+     "name_id": 142260,
+     "usage_references_text": "<i>Berberis formosana</i> H.L.Li nom. illeg., Example J. Bot. 51: 61. 2000."
+    }
+   ],
+   "description": "Synthetic test description of Berberis hayatana. Shrubs; leaves 5–8 cm long.",
+   "distribution": "Test distribution for Berberis hayatana, 1500 m.",
+   "note": null
+  },
+  {
+   "name": "<i>Berberis kawakamii</i>",
+   "name_id": 20964,
+   "rank_id": 34,
+   "name_authors": "Hayata",
+   "usage_references_text": "<i>Berberis kawakamii</i> Hayata, Example J. Bot. 6: 16. 2000.",
+   "common_names": [
+    "臺灣小檗",
+    "川上氏小檗",
+    "台灣小檗"
+   ],
+   "synonyms": [
+    {
+     "name_id": 246002,
+     "usage_references_text": "<i>Berberis formosana</i> Ahrendt, Example J. Bot. 61: 71. 2000."
+    },
+    {
+     "name_id": 235965,
+     "usage_references_text": "<i>Berberis kawakamii</i> var. <i>formosana</i> (Ahrendt) Ahrendt, Example J. Bot. 62: 72. 2000."
+    },
+    {
+     "name_id": 115061,
+     "usage_references_text": "<i>Berberis natoensis</i> C.K.Schneid., Example J. Bot. 63: 73. 2000."
+    }
+   ],
+   "description": "Synthetic test description of Berberis kawakamii. Shrubs; leaves 6–9 cm long.",
+   "distribution": "Test distribution for Berberis kawakamii, 1600 m.",
+   "note": null
+  },
+  {
+   "name": "<i>Berberis mingetsuensis</i>",
+   "name_id": 119343,
+   "rank_id": 34,
+   "name_authors": "Hayata",
+   "usage_references_text": "<i>Berberis mingetsuensis</i> Hayata, Example J. Bot. 7: 17. 2000.",
+   "common_names": [
+    "眠月小檗"
+   ],
+   "synonyms": [
+    {
+     "name_id": 20965,
+     "usage_references_text": "<i>Berberis mingetsensis</i> Hayata, Example J. Bot. 71: 81. 2000."
+    }
+   ],
+   "description": "Synthetic test description of Berberis mingetsuensis. Shrubs; leaves 7–10 cm long.",
+   "distribution": "Test distribution for Berberis mingetsuensis, 1700 m.",
+   "note": null
+  },
+  {
+   "name": "<i>Berberis morii</i>",
+   "name_id": 54432,
+   "rank_id": 34,
+   "name_authors": "Harber & C.C.Yu",
+   "usage_references_text": "<i>Berberis morii</i> Harber & C.C.Yu, Example J. Bot. 8: 18. 2000.",
+   "common_names": [
+    "森氏小檗"
+   ],
+   "synonyms": [],
+   "description": "Synthetic test description of Berberis morii. Shrubs; leaves 8–11 cm long.",
+   "distribution": "Test distribution for Berberis morii, 1800 m.",
+   "note": null
+  },
+  {
+   "name": "<i>Berberis morrisonensis</i>",
+   "name_id": 20966,
+   "rank_id": 34,
+   "name_authors": "Hayata",
+   "usage_references_text": "<i>Berberis morrisonensis</i> Hayata, Example J. Bot. 9: 19. 2000.",
+   "common_names": [
+    "玉山小檗"
+   ],
+   "synonyms": [],
+   "description": "Synthetic test description of Berberis morrisonensis. Shrubs; leaves 9–12 cm long.",
+   "distribution": "Test distribution for Berberis morrisonensis, 1900 m.",
+   "note": null
+  },
+  {
+   "name": "<i>Berberis nantoensis</i>",
+   "name_id": 20967,
+   "rank_id": 34,
+   "name_authors": "C.K.Schneid.",
+   "usage_references_text": "<i>Berberis nantoensis</i> C.K.Schneid., Example J. Bot. 10: 20. 2000.",
+   "common_names": [
+    "南投小檗"
+   ],
+   "synonyms": [
+    {
+     "name_id": 142259,
+     "usage_references_text": "<i>Berberis densifolia</i> Bijh., Example J. Bot. 101: 111. 2000."
+    }
+   ],
+   "description": "Synthetic test description of Berberis nantoensis. Shrubs; leaves 10–13 cm long.",
+   "distribution": "Test distribution for Berberis nantoensis, 2000 m.",
+   "note": null
+  },
+  {
+   "name": "<i>Berberis pengii</i>",
+   "name_id": 20968,
+   "rank_id": 34,
+   "name_authors": "C.C.Yu & K.F.Chung",
+   "usage_references_text": "<i>Berberis pengii</i> C.C.Yu & K.F.Chung, Example J. Bot. 11: 21. 2000.",
+   "common_names": [
+    "南臺灣小檗",
+    "南台灣小檗"
+   ],
+   "synonyms": [],
+   "description": "Synthetic test description of Berberis pengii. Shrubs; leaves 11–14 cm long.",
+   "distribution": "Test distribution for Berberis pengii, 2100 m.",
+   "note": null
+  },
+  {
+   "name": "<i>Berberis ravenii</i>",
+   "name_id": 20969,
+   "rank_id": 34,
+   "name_authors": "C.C.Yu & K.F.Chung",
+   "usage_references_text": "<i>Berberis ravenii</i> C.C.Yu & K.F.Chung, Example J. Bot. 12: 22. 2000.",
+   "common_names": [
+    "神武小檗"
+   ],
+   "synonyms": [],
+   "description": "Synthetic test description of Berberis ravenii. Shrubs; leaves 12–15 cm long.",
+   "distribution": "Test distribution for Berberis ravenii, 2200 m.",
+   "note": null
+  },
+  {
+   "name": "<i>Berberis schaaliae</i>",
+   "name_id": 20970,
+   "rank_id": 34,
+   "name_authors": "C.C.Yu & K.F.Chung",
+   "usage_references_text": "<i>Berberis schaaliae</i> C.C.Yu & K.F.Chung, Example J. Bot. 13: 23. 2000.",
+   "common_names": [
+    "花蓮小檗"
+   ],
+   "synonyms": [],
+   "description": "Synthetic test description of Berberis schaaliae. Shrubs; leaves 13–16 cm long.",
+   "distribution": "Test distribution for Berberis schaaliae, 2300 m.",
+   "note": null
+  },
+  {
+   "name": "<i>Berberis tarokoensis</i>",
+   "name_id": 20971,
+   "rank_id": 34,
+   "name_authors": "S.Y.Lu & Yuen P.Yang",
+   "usage_references_text": "<i>Berberis tarokoensis</i> S.Y.Lu & Yuen P.Yang, Example J. Bot. 14: 24. 2000.",
+   "common_names": [
+    "太魯閣小檗"
+   ],
+   "synonyms": [],
+   "description": "Synthetic test description of Berberis tarokoensis. Shrubs; leaves 14–17 cm long.",
+   "distribution": "Test distribution for Berberis tarokoensis, 2400 m.",
+   "note": null
+  }
+ ]
+}

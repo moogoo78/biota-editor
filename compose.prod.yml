@@ -1,0 +1,16 @@
+# Prod: docker compose -f compose.prod.yml up -d --build  ->  http://localhost:8080
+services:
+  api:
+    build: { context: ./backend, target: prod }
+    env_file: [.env]
+    environment:
+      DATABASE_URL: sqlite:////data/biotaeditor.sqlite
+    volumes: ["./data:/data"]
+    restart: unless-stopped
+    extra_hosts: ["host.docker.internal:host-gateway"]
+
+  web:
+    build: { context: ./frontend, target: prod }
+    ports: ["8080:80"]
+    depends_on: [api]
+    restart: unless-stopped

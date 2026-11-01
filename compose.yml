@@ -1,0 +1,22 @@
+# Dev: docker compose up  ->  web http://localhost:5180 , api http://localhost:8100/docs
+services:
+  api:
+    build: { context: ./backend, target: dev }
+    env_file: [.env]
+    environment:
+      DATABASE_URL: sqlite:////data/biotaeditor.sqlite
+    volumes:
+      - ./backend:/code
+      - ./data:/data
+    ports: ["8100:8000"]
+    extra_hosts: ["host.docker.internal:host-gateway"]   # reach a local ISLAND on :8000
+
+  web:
+    build: { context: ./frontend, target: dev }
+    environment:
+      VITE_API_PROXY: http://api:8000
+    volumes:
+      - ./frontend:/app
+      - /app/node_modules
+    ports: ["5180:5173"]
+    depends_on: [api]
